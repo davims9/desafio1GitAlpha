@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/" alt="Imagem de topo" style="max-width:700px; width:100%; height:auto;" />
+  <img src="images/logo_Alpha_EdTech.png" alt="Imagem de topo" style="max-width:700px; width:100%; height:auto;" />
 </p>
 
 # Assuntos aprendidos nas aulas
